@@ -190,6 +190,7 @@
 
 
 ## Build with Nextjs
+- [hashnode](https://hashnode.com/)
 - [chakra-templates](https://github.com/hauptrolle/chakra-templates) - [website](https://chakra-templates.dev/)
 - [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - [website](https://opencollective.com/)
 - [elmasse.io](https://github.com/elmasse/elmasse.io) - [website](https://elmasse.io/)
