@@ -2,7 +2,7 @@
 
 ## Nextjs Starter
 
-#### officila
+#### official
 - [vercel examples](https://github.com/vercel/examples) - [website](https://examples.vercel.live/)
 - [commerce](https://github.com/vercel/commerce) - [demo](https://demo.vercel.store/)
 
