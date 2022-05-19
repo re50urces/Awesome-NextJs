@@ -26,6 +26,7 @@
 - [nextjs-with-locomotive-scroll-example](https://github.com/BrunoS3D/nextjs-with-locomotive-scroll-example) - [demo](https://nextjs-with-locomotive-scroll-example.vercel.app/)
 - [use-next-blurhash-hook-example](https://github.com/BrunoS3D/use-next-blurhash-hook-example) - [demo](https://use-next-blurhash.vercel.app/) ++
 - [next-cache-effective-pages](https://github.com/bmstefanski/next-cache-effective-pages) - [demo](https://next-cache-effective-pages.vercel.app/test.txt?userId=42)
+- [nextjs-multiauthor-blog-starter](https://github.com/domhabersack/nextjs-multiauthor-blog-starter)
 
 
 #### starter + tailwind
@@ -69,6 +70,7 @@
 
 #### starter + PWA
 - [next-pwa-template](https://github.com/mvllow/next-pwa-template) - [demo](https://next-pwa-template.vercel.app/)
+- [nextjs-pwa](https://github.com/rsipakov/nextjs-pwa) - [demo](https://nextjs-pwa-xi.vercel.app/)
 
 #### starter + web3
 - [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - [demo](https://next-web3-boilerplate.mirshko.dev/) `Slightly opinionated Next.js Web3 boilerplate built on ethers, web3-react, Typechain, and SWR.`
@@ -95,6 +97,7 @@
 - [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - [website](https://www.reactnextboilerplate.com/)
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - [demo](https://pankod.github.io/next-boilerplate/)
 - [next-eui-starter](https://github.com/elastic/next-eui-starter) - [demo](https://elastic.github.io/next-eui-starter/)
+- [ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) -[demo](https://utlimate-saas-js.vercel.app/)
 
 #### docs templates
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
@@ -209,6 +212,10 @@
 - [planetscale docs](https://github.com/planetscale/docs) - [website](https://docs.planetscale.com/)
 - [delba.dev](https://github.com/delbaoliveira/website) - [website](https://delba.dev/)
 - [danielwirtz.com](https://github.com/wirtzdan/website) - [website](https://danielwirtz.com/)
+- [blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) - [website](https://blog.maximeheckel.com/)
+- [contentlayer.dev](https://github.com/contentlayerdev/website) - [website](https://www.contentlayer.dev/)
+- [adebayosegun.com](https://github.com/segunadebayo/adebayosegun.com) - [website](https://www.adebayosegun.com/)
+- [domhabersack.com](https://github.com/domhabersack/domhabersack.com) - [website](https://domhabersack.com/)
 
 ## Nextjs Projects
 - [Volleyball scoreboard application](https://github.com/jpedroschmitz/volley)
@@ -262,3 +269,4 @@
 - [Loading Images With the “Blur Down” Technique](https://joebell.co.uk/blog/loading-images-with-the-blur-down-technique)
 - [Updating Static Next.js Pages Instantly](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
 - [Next.js — Make your own Progress bar indicator component easily!!!](https://www.gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
+- [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
