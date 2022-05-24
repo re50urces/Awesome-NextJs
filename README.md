@@ -271,3 +271,12 @@
 - [Updating Static Next.js Pages Instantly](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
 - [Next.js — Make your own Progress bar indicator component easily!!!](https://www.gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
 - [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
+
+## Twitter Account
+> some accounts where you can find different kinds of content related to Nextjs.
+
+- [@vercel](https://twitter.com/vercel)
+- [@nextjs](https://twitter.com/nextjs)
+- [@leeerob](https://twitter.com/leeerob)
+- [rauchg](https://twitter.com/rauchg)
+- [@timneutkens](https://twitter.com/timneutkens)
