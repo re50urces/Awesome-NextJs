@@ -1,5 +1,8 @@
 # **Awesome Nextjs** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Learn
+- [Learn Nextjs](https://nextjs.org/learn/foundations/about-nextjs)
+
 ## Nextjs Starter
 
 #### official
@@ -279,4 +282,7 @@
 - [@nextjs](https://twitter.com/nextjs)
 - [@leeerob](https://twitter.com/leeerob)
 - [rauchg](https://twitter.com/rauchg)
+- [@timneutkens](https://twitter.com/timneutkens)
+- [@delba_oliveira](https://twitter.com/delba_oliveira)
+- [@sebmarkbage](https://twitter.com/sebmarkbage)
 - [@timneutkens](https://twitter.com/timneutkens)
