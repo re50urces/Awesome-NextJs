@@ -275,6 +275,9 @@
 - [Next.js — Make your own Progress bar indicator component easily!!!](https://www.gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
 - [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
 
+## Nextjs Build App
+- [Building full-stack React apps with Next.js API routes](https://www.thisdot.co/blog/building-full-stack-react-apps-with-next-js-api-routes)
+
 ## Twitter Account
 > some accounts where you can find different kinds of content related to Nextjs.
 
