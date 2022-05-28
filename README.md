@@ -274,6 +274,7 @@
 - [Updating Static Next.js Pages Instantly](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
 - [Next.js — Make your own Progress bar indicator component easily!!!](https://www.gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
 - [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
+- [How to Build and Deploy a Jamstack Website Fast With Next.js](https://betterprogramming.pub/how-to-build-and-deploy-a-jamstack-website-fast-with-next-js-a61df3c822f)
 
 ## Nextjs Build App
 - [Building full-stack React apps with Next.js API routes](https://www.thisdot.co/blog/building-full-stack-react-apps-with-next-js-api-routes)
