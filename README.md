@@ -221,7 +221,9 @@
 - [domhabersack.com](https://github.com/domhabersack/domhabersack.com) - [website](https://domhabersack.com/)
 - [invisionapp](https://www.invisionapp.com/)
 
+
 ## Nextjs Projects
+- [pliny](https://github.com/timlrx/pliny) `Create content heavy websites with ease - built on next.js, contentlayer and tailwindcss`
 - [Volleyball scoreboard application](https://github.com/jpedroschmitz/volley)
 - [krabs](https://github.com/micheleriva/krabs) - `Express.js/Fastify middleware and virtual host for multi-tenant Next.js applications`
 - [nextjs-vanilla-extract-example](https://github.com/markdalgleish/nextjs-vanilla-extract-example)
@@ -285,7 +287,7 @@
 - [@vercel](https://twitter.com/vercel)
 - [@nextjs](https://twitter.com/nextjs)
 - [@leeerob](https://twitter.com/leeerob)
-- [rauchg](https://twitter.com/rauchg)
+- [@rauchg](https://twitter.com/rauchg)
 - [@timneutkens](https://twitter.com/timneutkens)
 - [@delba_oliveira](https://twitter.com/delba_oliveira)
 - [@sebmarkbage](https://twitter.com/sebmarkbage)
