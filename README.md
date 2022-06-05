@@ -37,6 +37,7 @@
 - [next-app-starter](https://github.com/jellydn/next-app-starter) - [demo](https://next-app-starter.vercel.app/)
 - [Boilerplate and Starter](https://github.com/ixartz/Next-js-Boilerplate) - [demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/)
 - [next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - `Next.js + Prisma + TailwindCSS + (Type-)GraphQL`
+- [nextjs-typescript-tailwindcss-starter](https://github.com/krishneup/nextjs-typescript-tailwindcss-starter) - [demo](https://nextjs-typescript-tailwindcss-starter.vercel.app/)
 
 #### starter + rescript
 - [rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - [demo](https://nextjs-default-ryyppy.vercel.app/)
