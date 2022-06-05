@@ -198,6 +198,8 @@
 ## Build with Nextjs
 - [hashnode](https://hashnode.com/)
 - [chakra-templates](https://github.com/hauptrolle/chakra-templates) - [website](https://chakra-templates.dev/)
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - [website](https://chakra-ui.com/)
+- [chakra-ui docs](https://github.com/chakra-ui/chakra-ui-docs)
 - [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - [website](https://opencollective.com/)
 - [elmasse.io](https://github.com/elmasse/elmasse.io) - [website](https://elmasse.io/)
 - [nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - [website](https://nirmalyaghosh.com/)
@@ -220,6 +222,10 @@
 - [adebayosegun.com](https://github.com/segunadebayo/adebayosegun.com) - [website](https://www.adebayosegun.com/)
 - [domhabersack.com](https://github.com/domhabersack/domhabersack.com) - [website](https://domhabersack.com/)
 - [invisionapp](https://www.invisionapp.com/)
+- [100ms Documentation](https://github.com/100mslive/100ms-docs) - [website](https://docs.100ms.live/)
+- [fantasy-docs-next](https://github.com/whatadewitt/fantasy-docs-next) - [website](https://yahoo-fantasy-node-docs.vercel.app/)
+- [magicbell docs](https://github.com/magicbell-io/docs) - [website](https://www.magicbell.com/docs)
+- [nfinity Bot List docs](https://github.com/InfinityBotList/Documentation) - [website](https://guide.infinitybots.gg/)
 
 
 ## Nextjs Projects
