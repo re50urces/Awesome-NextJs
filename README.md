@@ -227,6 +227,7 @@
 - [fantasy-docs-next](https://github.com/whatadewitt/fantasy-docs-next) - [website](https://yahoo-fantasy-node-docs.vercel.app/)
 - [magicbell docs](https://github.com/magicbell-io/docs) - [website](https://www.magicbell.com/docs)
 - [nfinity Bot List docs](https://github.com/InfinityBotList/Documentation) - [website](https://guide.infinitybots.gg/)
+- [magicbell documentation](https://github.com/magicbell-io/docs) - [website](https://www.magicbell.com/docs)
 
 
 ## Nextjs Projects
