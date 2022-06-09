@@ -2,6 +2,7 @@
 
 ## Learn
 - [Learn Nextjs](https://nextjs.org/learn/foundations/about-nextjs)
+- [Mastering Next.js](https://github.com/leerob/mastering-nextjs) - [website](https://masteringnextjs.com/)
 
 ## Nextjs Starter
 
@@ -30,6 +31,10 @@
 - [use-next-blurhash-hook-example](https://github.com/BrunoS3D/use-next-blurhash-hook-example) - [demo](https://use-next-blurhash.vercel.app/) ++
 - [next-cache-effective-pages](https://github.com/bmstefanski/next-cache-effective-pages) - [demo](https://next-cache-effective-pages.vercel.app/test.txt?userId=42)
 - [nextjs-multiauthor-blog-starter](https://github.com/domhabersack/nextjs-multiauthor-blog-starter)
+- [next-project-starter](https://github.com/johnpolacek/next-project-starter) - [demo](https://project-starter.vercel.app/)
+- [next.js-tailwindcss-template](https://github.com/imadatyatalah/next.js-tailwindcss-template) - [demo](https://next-js-tailwindcss-template.vercel.app/)
+- [nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - [demo](https://next-starter.bhanuteja.dev/) `A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + Husky`
+- [Elastic's Next.js EUI Starter](https://github.com/elastic/next-eui-starter) - [demo](https://elastic.github.io/next-eui-starter/)
 
 
 #### starter + tailwind
@@ -38,6 +43,7 @@
 - [Boilerplate and Starter](https://github.com/ixartz/Next-js-Boilerplate) - [demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/)
 - [next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - `Next.js + Prisma + TailwindCSS + (Type-)GraphQL`
 - [nextjs-typescript-tailwindcss-starter](https://github.com/krishneup/nextjs-typescript-tailwindcss-starter) - [demo](https://nextjs-typescript-tailwindcss-starter.vercel.app/)
+- [Next.js Starter Tailwind](https://github.com/taylorbryant/next-starter-tailwind) - [demo](https://next-starter-tailwind.taylorbryant.dev/)
 
 #### starter + rescript
 - [rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - [demo](https://nextjs-default-ryyppy.vercel.app/)
@@ -102,6 +108,7 @@
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - [demo](https://pankod.github.io/next-boilerplate/)
 - [next-eui-starter](https://github.com/elastic/next-eui-starter) - [demo](https://elastic.github.io/next-eui-starter/)
 - [ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) -[demo](https://utlimate-saas-js.vercel.app/)
+- [cna-chakra-ui-template](https://github.com/imadatyatalah/cna-chakra-ui-template) - [demo](https://cna-chakra-ui-template.vercel.app/)
 
 #### docs templates
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
@@ -125,6 +132,7 @@
 #### portfolio templates
 - [next-portfolio-dev](https://github.com/smakosh/next-portfolio-dev) - [demo](https://portfolio-next.smakosh.com/)
 - [next-startd](https://github.com/jkytoela/next-startd) - [demo](https://next-startd.vercel.app/)
+- [nextjs-chakra-ui-portfolio-template](https://github.com/imadatyatalah/nextjs-chakra-ui-portfolio-template) - [demo](https://portfolio-boilerplate-nextjs.vercel.app/)
 
 #### e-commerce templates
 - [React Storefront](https://github.com/saleor/react-storefront) - [demo](https://reactstorefront.vercel.app/) `saleor checkout`
@@ -228,6 +236,9 @@
 - [magicbell docs](https://github.com/magicbell-io/docs) - [website](https://www.magicbell.com/docs)
 - [nfinity Bot List docs](https://github.com/InfinityBotList/Documentation) - [website](https://guide.infinitybots.gg/)
 - [magicbell documentation](https://github.com/magicbell-io/docs) - [website](https://www.magicbell.com/docs)
+- [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - [website](https://jsonvisio.com/)
+- [notion-avatar](https://github.com/Mayandev/notion-avatar) - [website](https://notion-avatar.vercel.app/)
+- [howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - [website](https://howtoprofessionallysay.akashrajpurohit.com/)
 
 
 ## Nextjs Projects
@@ -249,6 +260,8 @@
 - [next-type-graphql](https://github.com/platypusrex/next-type-graphql) `Apollo TypeGraphQL micro server for Next.js api routes`
 - [next-advanced-apollo-starter](https://github.com/borisowsky/next-advanced-apollo-starter) `Advanced, but minimalistic Next.js and Apollo starter`
 - [zora-nextjs-app](https://github.com/dabit3/zora-nextjs-app) `Example Full Stack App built with Next.js, Zora, Tailwind, and The Graph`
+- [TweenPages](https://github.com/johnpolacek/TweenPages) - [demo](https://tweenpages.vercel.app/) `Build complex animated page transitions with GSAP and Next.js`
+- [Next.js Leaflet Starter](https://github.com/colbyfayock/next-leaflet-starter) - [demo](https://next-leaflet-starter.netlify.app/) `A Next.js starter with Leafet to quickly build React apps with a map!`
 
 
 
@@ -285,6 +298,7 @@
 - [Next.js — Make your own Progress bar indicator component easily!!!](https://www.gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
 - [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
 - [How to Build and Deploy a Jamstack Website Fast With Next.js](https://betterprogramming.pub/how-to-build-and-deploy-a-jamstack-website-fast-with-next-js-a61df3c822f)
+- [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij) - [repo](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter)
 
 ## Nextjs Build App
 - [Building full-stack React apps with Next.js API routes](https://www.thisdot.co/blog/building-full-stack-react-apps-with-next-js-api-routes)
