@@ -239,6 +239,8 @@
 - [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - [website](https://jsonvisio.com/)
 - [notion-avatar](https://github.com/Mayandev/notion-avatar) - [website](https://notion-avatar.vercel.app/)
 - [howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - [website](https://howtoprofessionallysay.akashrajpurohit.com/)
+- [heroicons](https://github.com/zaydek/heroicons.dev) - [website](https://heroicons.dev/)
+- [symbols-search](https://github.com/farhan2077/symbols-search) - [website](https://symbols-search.vercel.app/)
 
 
 ## Nextjs Projects
