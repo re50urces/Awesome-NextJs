@@ -306,6 +306,9 @@
 ## Nextjs Build App
 - [Building full-stack React apps with Next.js API routes](https://www.thisdot.co/blog/building-full-stack-react-apps-with-next-js-api-routes)
 
+## Next.js newsletter
+- [nextjsnews](https://nextjsnews.com/)
+
 ## Twitter Account
 > some accounts where you can find different kinds of content related to Nextjs.
 
@@ -317,3 +320,4 @@
 - [@delba_oliveira](https://twitter.com/delba_oliveira)
 - [@sebmarkbage](https://twitter.com/sebmarkbage)
 - [@timneutkens](https://twitter.com/timneutkens)
+- [@vvoyer](https://twitter.com/vvoyer)
