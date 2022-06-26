@@ -203,6 +203,7 @@
 - [next-page-tester](https://github.com/next-page-tester/next-page-tester) - [example](https://github.com/next-page-tester/next-page-tester/tree/master/examples)
 - [css-in-js](https://github.com/andreipfeiffer/css-in-js) `A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js`
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - [demo](https://next-dark-mode.vercel.app/)
+- [cookies-next](https://github.com/andreizanik/cookies-next) `Getting, setting and removing cookies on both client and server with next.js `
 
 
 ## Build with Nextjs
