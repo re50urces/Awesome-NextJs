@@ -202,6 +202,7 @@
 - [next-data-hooks](https://github.com/ricokahler/next-data-hooks) - [example](https://github.com/ricokahler/next-data-hooks/tree/main/examples/next-data-hooks-example) `Use `getStaticProps`/`getServerSideProps` as react-hooks`
 - [next-page-tester](https://github.com/next-page-tester/next-page-tester) - [example](https://github.com/next-page-tester/next-page-tester/tree/master/examples)
 - [css-in-js](https://github.com/andreipfeiffer/css-in-js) `A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js`
+- [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - [demo](https://next-dark-mode.vercel.app/)
 
 
 ## Build with Nextjs
