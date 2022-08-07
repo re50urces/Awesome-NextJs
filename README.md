@@ -121,6 +121,7 @@
 - [NextBook](https://github.com/amiroff/NextBook) - [demo](https://next-book.vercel.app/)
 - [hyperdocs](https://github.com/Lalit2005/hyperdocs) - [demo](https://hyperdocs.netlify.app/hashnode/docs)
 - [odoc](https://github.com/HelipengTony/odoc) - [demo](https://docs.ouorz.com/)
+- [nextacular](https://github.com/nextacular/nextacular) - [demo](https://demo.nextacular.co/)
 
 #### Blog Templates
 - [nextra-theme-blog](https://github.com/shuding/site) - [demo](https://shud.in/)
