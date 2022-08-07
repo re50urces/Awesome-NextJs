@@ -119,6 +119,8 @@
 - [next-smooth-doc](https://github.com/lwz7512/next-smooth-doc) - [demo](https://next-smooth-doc.vercel.app/)
 - [productlog-nextjs-theme](https://github.com/apvarun/productlog-nextjs-theme) - [demo](https://productlog-theme.vercel.app/)
 - [NextBook](https://github.com/amiroff/NextBook) - [demo](https://next-book.vercel.app/)
+- [hyperdocs](https://github.com/Lalit2005/hyperdocs) - [demo](https://hyperdocs.netlify.app/hashnode/docs)
+- [odoc](https://github.com/HelipengTony/odoc) - [demo](https://docs.ouorz.com/)
 
 #### Blog Templates
 - [nextra-theme-blog](https://github.com/shuding/site) - [demo](https://shud.in/)
