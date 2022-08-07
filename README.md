@@ -35,6 +35,9 @@
 - [next.js-tailwindcss-template](https://github.com/imadatyatalah/next.js-tailwindcss-template) - [demo](https://next-js-tailwindcss-template.vercel.app/)
 - [nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - [demo](https://next-starter.bhanuteja.dev/) `A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + Husky`
 - [Elastic's Next.js EUI Starter](https://github.com/elastic/next-eui-starter) - [demo](https://elastic.github.io/next-eui-starter/)
+- [wild-next](https://github.com/madebywild/wild-next)
+- [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - [demo](https://nextarter-chakra.sznm.dev/)
+
 
 
 #### starter + tailwind
@@ -44,6 +47,7 @@
 - [next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - `Next.js + Prisma + TailwindCSS + (Type-)GraphQL`
 - [nextjs-typescript-tailwindcss-starter](https://github.com/krishneup/nextjs-typescript-tailwindcss-starter) - [demo](https://nextjs-typescript-tailwindcss-starter.vercel.app/)
 - [Next.js Starter Tailwind](https://github.com/taylorbryant/next-starter-tailwind) - [demo](https://next-starter-tailwind.taylorbryant.dev/)
+- [nextjs-advanced-starter](https://github.com/agcty/nextjs-advanced-starter) - [demo](https://nextjs-advanced-starter.vercel.app/)
 
 #### starter + rescript
 - [rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - [demo](https://nextjs-default-ryyppy.vercel.app/)
@@ -114,6 +118,7 @@
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
 - [next-smooth-doc](https://github.com/lwz7512/next-smooth-doc) - [demo](https://next-smooth-doc.vercel.app/)
 - [productlog-nextjs-theme](https://github.com/apvarun/productlog-nextjs-theme) - [demo](https://productlog-theme.vercel.app/)
+- [NextBook](https://github.com/amiroff/NextBook) - [demo](https://next-book.vercel.app/)
 
 #### Blog Templates
 - [nextra-theme-blog](https://github.com/shuding/site) - [demo](https://shud.in/)
