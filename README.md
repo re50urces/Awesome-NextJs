@@ -113,6 +113,7 @@
 - [next-eui-starter](https://github.com/elastic/next-eui-starter) - [demo](https://elastic.github.io/next-eui-starter/)
 - [ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) -[demo](https://utlimate-saas-js.vercel.app/)
 - [cna-chakra-ui-template](https://github.com/imadatyatalah/cna-chakra-ui-template) - [demo](https://cna-chakra-ui-template.vercel.app/)
+- [Startup - Free Next.js Startup Website Template](https://github.com/NextJSTemplates/startup-nextjs) - [demo](https://startup.nextjstemplates.com/)
 
 #### docs templates
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
