@@ -102,6 +102,7 @@
 ## Nextjs Templates
 
 #### templates
+- [Taxonomy](https://github.com/shadcn/taxonomy) - [demo](https://tx.shadcn.com/)
 - [nextra](https://github.com/shuding/nextra) - [demo](https://nextra.vercel.app/)
 - [theBag](https://github.com/hajhosein/theBag) - [demo](https://the-bag.vercel.app/) `Multipurpose template made by Nextjs and MUI v5.`
 - [next-dev-studio](https://github.com/lwz7512/next-dev-studio) - [demo](https://next-dev-studio.vercel.app/)
@@ -332,3 +333,4 @@
 - [@sebmarkbage](https://twitter.com/sebmarkbage)
 - [@timneutkens](https://twitter.com/timneutkens)
 - [@vvoyer](https://twitter.com/vvoyer)
+- [@shadcn](https://twitter.com/shadcn)
