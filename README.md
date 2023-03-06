@@ -115,6 +115,7 @@
 - [ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) -[demo](https://utlimate-saas-js.vercel.app/)
 - [cna-chakra-ui-template](https://github.com/imadatyatalah/cna-chakra-ui-template) - [demo](https://cna-chakra-ui-template.vercel.app/)
 - [Startup - Free Next.js Startup Website Template](https://github.com/NextJSTemplates/startup-nextjs) - [demo](https://startup.nextjstemplates.com/)
+- [supastarter](https://supastarter.dev/) - [demo](https://demo.supastarter.dev/) `$`
 
 #### docs templates
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
@@ -334,3 +335,4 @@
 - [@timneutkens](https://twitter.com/timneutkens)
 - [@vvoyer](https://twitter.com/vvoyer)
 - [@shadcn](https://twitter.com/shadcn)
+- [@jonathan_wilke](https://twitter.com/jonathan_wilke)
