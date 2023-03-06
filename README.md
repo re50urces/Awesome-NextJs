@@ -37,6 +37,7 @@
 - [Elastic's Next.js EUI Starter](https://github.com/elastic/next-eui-starter) - [demo](https://elastic.github.io/next-eui-starter/)
 - [wild-next](https://github.com/madebywild/wild-next)
 - [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - [demo](https://nextarter-chakra.sznm.dev/)
+- [t3 app](https://github.com/t3-oss/create-t3-app) - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
 
 
 
