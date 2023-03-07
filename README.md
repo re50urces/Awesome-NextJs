@@ -330,7 +330,6 @@
 - [@nextjs](https://twitter.com/nextjs)
 - [@leeerob](https://twitter.com/leeerob)
 - [@rauchg](https://twitter.com/rauchg)
-- [@timneutkens](https://twitter.com/timneutkens)
 - [@delba_oliveira](https://twitter.com/delba_oliveira)
 - [@sebmarkbage](https://twitter.com/sebmarkbage)
 - [@timneutkens](https://twitter.com/timneutkens)
