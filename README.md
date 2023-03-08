@@ -308,6 +308,7 @@
 - [polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) `A full stack digital marketplace running on Ethereum with Polygon & Next.js`
 - [nextjs-dapp-starter-ts](https://github.com/G3root/nextjs-dapp-starter-ts) `A fullstack monorepo template to develop ethereum dapps`
 - [supabase-nextjs-auth](https://github.com/dabit3/supabase-nextjs-auth)
+- [NextStatic](https://www.next-static.com/) `10x cheaper Image Optimization for Next.js`
 
 ## articles
 - [Loading Images With the “Blur Down” Technique](https://joebell.co.uk/blog/loading-images-with-the-blur-down-technique)
