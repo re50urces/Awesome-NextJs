@@ -283,6 +283,7 @@
 
 
 ## miscellaneous
+- [liveblocks.io](https://liveblocks.io/?ref=awe50meNext) `Collaborative experiences in days, not months`
 - [nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - `A github action that provides detailed bundle analysis on PRs for next.js apps`
 - [next-real-viewport](https://github.com/basementstudio/next-real-viewport) - `No more horizontal scroll when using 100vw tada. No more issues with the 100vh in mobile browsers exploding_head.`
 - [Next.js and Prismic.io Blog Series](https://github.com/garmeeh/nextjs-prismic-blog-series)
