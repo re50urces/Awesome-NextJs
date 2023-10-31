@@ -4,6 +4,10 @@
 - [Learn Nextjs](https://nextjs.org/learn/foundations/about-nextjs)
 - [Mastering Next.js](https://github.com/leerob/mastering-nextjs) - [website](https://masteringnextjs.com/)
 
+## tools
+- [Next-video](https://next-video.dev/?ref=awe50me) `Add high-performance video to your Next.js app`
+- [Uploadthing](https://uploadthing.com/?ref=awe50me) `File Uploads For Next.js Developers`
+
 ## Nextjs Starter
 
 #### official
