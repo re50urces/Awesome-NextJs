@@ -220,6 +220,8 @@
 - [css-in-js](https://github.com/andreipfeiffer/css-in-js) `A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js`
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - [demo](https://next-dark-mode.vercel.app/)
 - [cookies-next](https://github.com/andreizanik/cookies-next) `Getting, setting and removing cookies on both client and server with next.js `
+- [runtime-env](https://www.npmjs.com/package/@cuww/runtime-env) – Runtime Environemt Variables for Next.js. Stop configuring ENV variables in CI/CD, use a cloud-native approach (kubernetes, vargant, etc).
+
 
 
 ## Build with Nextjs
