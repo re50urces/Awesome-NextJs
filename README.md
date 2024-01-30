@@ -221,6 +221,7 @@
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - [demo](https://next-dark-mode.vercel.app/)
 - [cookies-next](https://github.com/andreizanik/cookies-next) `Getting, setting and removing cookies on both client and server with next.js `
 - [runtime-env](https://www.npmjs.com/package/@cuww/runtime-env) – Runtime Environemt Variables for Next.js. Stop configuring ENV variables in CI/CD, use a cloud-native approach (kubernetes, vargant, etc).
+- [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add and integrate Google Tag Manager with Next 13 and upwards.
 
 
 
