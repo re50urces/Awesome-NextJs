@@ -43,6 +43,7 @@
 - [wild-next](https://github.com/madebywild/wild-next)
 - [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - [demo](https://nextarter-chakra.sznm.dev/)
 - [t3 app](https://github.com/t3-oss/create-t3-app) - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
+- [Extensive React Boilerplate](https://github.com/brocoders/extensive-react-boilerplate) - [demo](https://react-boilerplate-coral.vercel.app/en) `Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.`
 
 
 
