@@ -325,6 +325,7 @@
 - [Static Tweets with MDX and Next.js](https://blog.maximeheckel.com/posts/static-tweets-with-mdx-nextjs/)
 - [How to Build and Deploy a Jamstack Website Fast With Next.js](https://betterprogramming.pub/how-to-build-and-deploy-a-jamstack-website-fast-with-next-js-a61df3c822f)
 - [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://dev.to/ionic/build-mobile-apps-with-tailwind-css-next-js-ionic-framework-and-capacitor-3kij) - [repo](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter)
+- [Building an AI-Powered Customer Support System using Permit.io Nextjs and Nodejs](https://medium.com/@godstimeaburu/building-an-ai-powered-customer-support-system-using-permit-io-154d3d746a57)-[repo](https://github.com/BboyGT/AI-Support-Customer-System)
 
 ## Nextjs Build App
 - [Building full-stack React apps with Next.js API routes](https://www.thisdot.co/blog/building-full-stack-react-apps-with-next-js-api-routes)
