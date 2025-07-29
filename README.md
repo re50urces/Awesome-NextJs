@@ -263,6 +263,8 @@
 - [heroicons](https://github.com/zaydek/heroicons.dev) - [website](https://heroicons.dev/)
 - [symbols-search](https://github.com/farhan2077/symbols-search) - [website](https://symbols-search.vercel.app/)
 - [aravindballa website](https://github.com/aravindballa/website) - [website](https://aravindballa.com/)
+- [JetShip Next.js Starter Kit](https://demos.themeselection.com/jetship-nextjs-starter-kit) - [website](https://themeselection.com/)
+
 
 
 ## Nextjs Projects
