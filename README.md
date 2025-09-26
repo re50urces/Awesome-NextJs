@@ -96,6 +96,7 @@
 - [next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - [demo](https://next-web3-boilerplate.mirshko.dev/) `Slightly opinionated Next.js Web3 boilerplate built on ethers, web3-react, Typechain, and SWR.`
 - [solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) `A full-stack dApp starter built on Ethereum (Solidity) with Next.js (React)`
 - [web3-starter](https://github.com/nickytonline/web3-starter)
+- [NextJs Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - NextJS Typescript template with wallet integration + token gated pages.
 
 #### starter + Nextein
 - [nextein-starter](https://github.com/elmasse/nextein-starter) - [demo](https://nextein-starter.vercel.app/)
