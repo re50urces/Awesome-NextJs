@@ -43,6 +43,7 @@
 - [wild-next](https://github.com/madebywild/wild-next)
 - [nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - [demo](https://nextarter-chakra.sznm.dev/)
 - [t3 app](https://github.com/t3-oss/create-t3-app) - [website](https://create.t3.gg/) `The best way to start a full-stack, typesafe Next.js app`
+- [ShipAI.today](https://shipai.today/) `Next.js AI SaaS boilerplate with auth and billing`
 
 
 
