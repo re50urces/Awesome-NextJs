@@ -263,6 +263,7 @@
 - [heroicons](https://github.com/zaydek/heroicons.dev) - [website](https://heroicons.dev/)
 - [symbols-search](https://github.com/farhan2077/symbols-search) - [website](https://symbols-search.vercel.app/)
 - [aravindballa website](https://github.com/aravindballa/website) - [website](https://aravindballa.com/)
+- [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and actor dossiers.
 
 
 ## Nextjs Projects
