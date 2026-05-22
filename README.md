@@ -3,6 +3,7 @@
 ## Learn
 - [Learn Nextjs](https://nextjs.org/learn/foundations/about-nextjs)
 - [Mastering Next.js](https://github.com/leerob/mastering-nextjs) - [website](https://masteringnextjs.com/)
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/nextjs-react) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## tools
 - [Next-video](https://next-video.dev/?ref=awe50me) `Add high-performance video to your Next.js app`
