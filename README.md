@@ -123,7 +123,7 @@
 - [Startup - Free Next.js Startup Website Template](https://github.com/NextJSTemplates/startup-nextjs) - [demo](https://startup.nextjstemplates.com/)
 - [supastarter](https://supastarter.dev/) - [demo](https://demo.supastarter.dev/) `$`
 
-#### docs templates
+- [Kostra](https://kostra.io) - Production-ready Next.js SaaS boilerplate with auth, Stripe billing, file uploads, admin dashboard, credit system, and CI/CD
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
 - [next-smooth-doc](https://github.com/lwz7512/next-smooth-doc) - [demo](https://next-smooth-doc.vercel.app/)
 - [productlog-nextjs-theme](https://github.com/apvarun/productlog-nextjs-theme) - [demo](https://productlog-theme.vercel.app/)
