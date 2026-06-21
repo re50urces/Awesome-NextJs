@@ -179,6 +179,9 @@
 #### Nextjs stackbit templates
 - [DIY themes](https://github.com/stackbit-themes/diy-nextjs) - [demo](https://themes.stackbit.com/demos/diy/)
 
+#### Nextjs + UnfoldCMS
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted headless CMS with REST API v1 (42 endpoints) + HMAC webhooks, built to power Next.js frontends. [integration guide](https://unfoldcms.com/unfoldcms-nextjs-integration)
+
 #### Nextjs + Ghost CMS
 - [next-cms-ghost](https://github.com/styxlab/next-cms-ghost) - [demo](https://next.jamify.org/)
 #### Nextjs + TinaCMS
