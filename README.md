@@ -8,6 +8,7 @@
 - [Next-video](https://next-video.dev/?ref=awe50me) `Add high-performance video to your Next.js app`
 - [Uploadthing](https://uploadthing.com/?ref=awe50me) `File Uploads For Next.js Developers`
 - [Nexar](https://nexar.dev/) `Application architecture for Next.js App Router apps`
+- [Payload Components](https://www.payload-components.xyz/) - MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 
 ## Nextjs Starter
 
