@@ -193,6 +193,7 @@
 - [notion-blog](https://github.com/ijjk/notion-blog) - [demo](https://notion-blog.vercel.app/)
 
 ## Nextjs Plugins
+- [Markstream React](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-react) - `Streaming Markdown renderer for React and Next.js AI chat interfaces`
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - `Load mdx content from anywhere through getStaticProps in next.js` ++
 - [mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - `Compile and bundle your MDX files and their dependencies. FAST.` ++
 - [mdx-embed](https://github.com/PaulieScanlon/mdx-embed) - `Embed 3rd party media content in MDX - no import required` ++ - [documentation](https://www.mdx-embed.com/)
