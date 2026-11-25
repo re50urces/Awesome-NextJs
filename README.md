@@ -307,6 +307,7 @@
 - [next-with-apollo](https://github.com/lfades/next-with-apollo) - `Apollo HOC for Next.js`
 - [next-session](https://github.com/hoangvvo/next-session) - `Simple promise-based session middleware for Next.js, micro, Express, and more`
 - [next-api-compose](https://github.com/neg4n/next-api-compose) - `Simple, dependency free, error aware and powerful utility to compose chain of multiple middleware into one Next.js API Route.`
+- [WebDecoy for Next.js](https://github.com/WebDecoy/node/tree/main/packages/nextjs) - `TypeScript middleware for decoy routes, local request rules, and monitor-mode inspection.`
 - [next-boost](https://github.com/next-boost/next-boost) - `Add a cache layer for server-side-rendered pages with stale-while-revalidate. Can be considered as an implementation of next.js's Incremental Static Regeneration which works with getServerSideProps`
 - [next-remote-refresh](https://github.com/souporserious/next-remote-refresh) - [example](https://github.com/souporserious/next-remote-refresh/tree/main/example)
 - [reflexjs](https://github.com/reflexjs/reflexjs) - [website](https://reflexjs.org/) `A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.`
